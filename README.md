@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kmaddy0123
+- 👋 Hi, I’m Krishna Madhav
 - 👀 I’m interested in ...Mechanical design
-- 🌱 I’m currently learning ...Mechanical Engineering
+- 🌱 I’m currently learning ...Mechanical Engineering with Automobile Specialization
 - 💞️ I’m looking to collaborate on ...Mechanical Design
 - 📫 How to reach me ...kmaddy0123@gmail.com
 
